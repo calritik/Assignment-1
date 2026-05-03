@@ -1,0 +1,26 @@
+# Python cache - automatically generated, not needed
+__pycache__/
+*.py[cod]
+*.pyo
+*.pycache
+
+# Virtual environment
+venv/
+env/
+.venv/
+
+# SQLite database files
+*.db
+
+# Environment variables (passwords etc)
+.env
+
+# VS Code settings
+.vscode/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Kafka logs
+kafka-logs/
