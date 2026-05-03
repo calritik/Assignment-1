@@ -83,6 +83,8 @@ this API sends a JSON notification to a Kafka topic.
 A Kafka consumer listens to that topic and alerts the user.
  
 ---
+<img width="1600" height="1000" alt="q2" src="https://github.com/user-attachments/assets/926f0339-a057-4e58-80d6-af0c7151f00f" />
+
  
 ## Tech Stack
 | Layer | Technology |
@@ -192,6 +194,8 @@ Pagination using `LIMIT` and `OFFSET` — fetch only the requested page of recor
 Also added DB Indexes on `post_dt` and `post_by` for faster queries.
  
 ---
+<img width="1600" height="1000" alt="q3" src="https://github.com/user-attachments/assets/5f985f90-b1b6-4cdb-88cd-741df62c5e10" />
+
  
 ## Tech Stack
 | Layer | Technology |
