@@ -4,7 +4,10 @@
 Fetches all  inventory report between two days from SQLite.
  
 ---
- 
+ <img width="1600" height="1000" alt="q1 1" src="https://github.com/user-attachments/assets/d27483cd-1983-4074-b82e-112338d7a169" />
+ <img width="1600" height="1000" alt="q1 2" src="https://github.com/user-attachments/assets/f4ed1eb5-eb36-45e1-8e2d-0a6b2034f1d4" />
+
+
 ## Tech Stack
 | Layer | Technology |
 |-------|-----------|
